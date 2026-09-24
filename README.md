@@ -4,7 +4,7 @@
 
 Pós-graduação em Ciência de Dados e Analytics — PUC-Rio
 Sprint 3: Engenharia de Dados
-Autor: Raphael
+Autor: Raphael Matias Brandão Montenário
 
 ---
 
